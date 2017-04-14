@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\bin\Debug\netcoreapp1.1\ModelValidation.deps.json
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\bin\Debug\netcoreapp1.1\ModelValidation.runtimeconfig.json
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\bin\Debug\netcoreapp1.1\ModelValidation.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\bin\Debug\netcoreapp1.1\ModelValidation.dll
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\bin\Debug\netcoreapp1.1\ModelValidation.pdb
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\obj\Debug\netcoreapp1.1\ModelValidation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\obj\Debug\netcoreapp1.1\ModelValidation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\obj\Debug\netcoreapp1.1\ModelValidation.dll
+C:\Users\Administrator\Desktop\ModelValidation\ModelValidation\obj\Debug\netcoreapp1.1\ModelValidation.pdb
